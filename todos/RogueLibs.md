@@ -9,9 +9,6 @@
 
 ## To-fixes (beta)
 
-- add missing patched objects to the HackExplode interaction.
-- fix Door's Knock interaction.
-
 
 
 ## To-fixes (stable)
