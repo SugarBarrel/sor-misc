@@ -5,14 +5,14 @@
   - can unlock any recognizable locking mechanism, be it mechanical, digital, fictional or meta-existential.
 - SCP-096 - The Shy Guy:
   - kills everyone who at some point saw its face. Literally unstoppable. It will even break though the level's ceiling to meet you on the next level.
+- SCP-262 - Coat of Arms:
+  - all arms are unique and have different strength and traits.
 - SCP-426 - I'm a Toaster:
   - I'm just a regular toaster. My secondary effects take way too long to manifest.
 - SCP-504 - Critical Tomatoes:
   - sometimes get thrown at people making jokes, while on the ground or in the toolbar.
   - the power is determined at random.
   - can be eaten to restore health ~~without any side effects~~; if you tell a bad joke within several minutes of consumption of SCP-504, you'll explode.
-- SCP-262 - Coat of Arms:
-  - all arms are unique and have different strength and traits.
 
 
 
@@ -27,15 +27,19 @@
   - if there's a lot of bananas around some thing, it will get damaged under their sheer pressure (that would affect objects, agents and walls).
 - SCRAMBLE Goggles:
   - prevents you from seeing SCP-096's face. Has a 1% chance to malfunction every second (~45.3% every minute).
+- SCP-500 - Panacea:
+  - Over a period of two minutes (orig. 2 hours) cures any diseases or defects.
 
 
 
 ## To-dos (planned)
 
-- SCP-244 - the freezing gas vase:
-  - make some autonomous gas clouds that travel in different directions and bounce off the walls, and make some of them house hostile entities that freeze NPCs and put out fires.
 - SCP-173 - The Statue:
   - everyone's asking, so fine, I'll make it at some point.
+- SCP-244 - the freezing gas vase:
+  - make some autonomous gas clouds that travel in different directions and bounce off the walls, and make some of them house hostile entities that freeze NPCs and put out fires.
+- SCP-294 - The Coffee Machine:
+  - upon depositing 50 coins prompts the player to enter the name of a beverage. There'll be a lot of different stuff...
 
 
 
